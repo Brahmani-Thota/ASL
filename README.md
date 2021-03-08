@@ -22,7 +22,7 @@ Each training and test case represents a label (0-25) as a one-to-one map for ea
 The data format of the data is in the form of CSV files where the row contains the label, pixel1,pixel2….pixel784 which represent a single 28x28 pixel image with grayscale values between 0-255. 
 
 
-References:
+## References:
 1. https://www.nidcd.nih.gov/health/american-sign-language
 2. https://www.wnycstudios.org/podcasts/takeaway/segments/148707-american-sign-language-threatened
 3. https://www.kaggle.com/datamunge/sign-language-mnist?select=sign_mnist_test
