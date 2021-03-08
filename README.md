@@ -10,3 +10,13 @@ American Sign Language is a natural language that serves as a sign language of d
 
 ## Aim:
 The goal of the project is to translate and recognize the signs of various alphabets and digits into the text by using the same deep learning model for training both digits and alphabets. 
+
+## Data: 
+[3]The original MNIST image dataset is made from handwritten digits and is commonly used for image-based machine learning methods. 
+
+Sign Language MNIST is patterned to match closely with the classic MNIST.
+
+Each training and test case represents a label (0-25) as a one-to-one map for each alphabetic letter A-Z (and no cases for 9=J or 25=Z because of gesture motions)
+[4]The training data (27,455 cases) and test data (7172 cases) are approximately half the size of the standard MNIST. The dataset consists of about 100MB of space. 
+
+The data format of the data is in the form of CSV files where the row contains the label, pixel1,pixel2….pixel784 which represent a single 28x28 pixel image with grayscale values between 0-255. 
