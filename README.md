@@ -9,7 +9,7 @@ American Sign Language is a natural language that serves as a sign language of d
 
 
 ## Aim:
-The goal of the project is to translate and recognize the signs of various alphabets and digits into the text by using the same deep learning model for training both digits and alphabets. 
+To understand the communication of the deaf commmunity through an online application by translating gestures to text through deep learning models.
 
 ## Data: 
 [3]The original MNIST image dataset is made from handwritten digits and is commonly used for image-based machine learning methods. 
@@ -21,9 +21,12 @@ Each training and test case represents a label (0-25) as a one-to-one map for ea
 
 The data format of the data is in the form of CSV files where the row contains the label, pixel1,pixel2….pixel784 which represent a single 28x28 pixel image with grayscale values between 0-255. 
 
+[5]The Significant Dataset contains 77 thousand images and also includes the synamic signs.
+
 
 ## References:
 1. https://www.nidcd.nih.gov/health/american-sign-language
 2. https://www.wnycstudios.org/podcasts/takeaway/segments/148707-american-sign-language-threatened
 3. https://www.kaggle.com/datamunge/sign-language-mnist?select=sign_mnist_test
 4. https://github.com/mon95/Sign-Language-and-Static-gesture-recognition-using-sklearn
+5. https://www.kaggle.com/kuzivakwashe/significant-asl-sign-language-alphabet-dataset
