@@ -21,7 +21,7 @@ Each training and test case represents a label (0-25) as a one-to-one map for ea
 
 The data format of the data is in the form of CSV files where the row contains the label, pixel1,pixel2….pixel784 which represent a single 28x28 pixel image with grayscale values between 0-255. 
 
-[5]The Significant Dataset contains 77 thousand images and also includes the synamic signs.
+[5]The Significant Dataset contains 77 thousand images and also includes the dynamic signs.
 
 
 ## References:
