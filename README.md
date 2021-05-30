@@ -1,4 +1,4 @@
-# ASL
+# American Sign Language 
 
 ## Introduction:
 American Sign Language is a natural language that serves as a sign language of deaf communities in the United States. ASL is expressed by movements of hands and face. It is completely separate and distinct from English, and has its own features of a language, like the order of the words, the pronunciation of the words and formation of the words. 
